@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nima</h1>
 <h3 align="center"> I'm a Data Scientist in Rabobank!</h3>
 
-- 🌱 I’m currently developing a microfrontend architecture for a commercial banking application
+- 🌱 I’m currently developing Statistical tests for monitoring the machine learning and statistical models in Credit Risk
 
 - 📫 You can checkout my online resume [here](https://nimaman.github.io/cv/)
 
